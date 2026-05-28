@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachevync",
+        "uuid": 18633870,
+        "checksum": "u41s6f"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
